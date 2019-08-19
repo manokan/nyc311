@@ -18,7 +18,7 @@ noiseType_Year <-
 noiseType_Year <- rbind(noiseType_Year, x)
 rm(x)
 
-# Replace "/ " in Complaint.Type "Noise - Street/Sidewalk" ( throws error in ggplot)
+# Replace "/ " in Complaint.Type "Noise - Street/Sidewalk" (throws error in ggplot) 
 noiseType_Year$Complaint.Type <- factor(gsub("/", " or ", noiseType_Year$Complaint.Type))
 
 # PNG loop - compare noise types with All Noise ----
