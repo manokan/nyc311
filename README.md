@@ -1,9 +1,15 @@
 ## NYC 311 Service Requests (aka complaints)
 
-Random parsings of the public dataset about most things that ail NYC.
+Random parsings of the public dataset about most things that ail NYC. I started delving into 311 data several years ago after repeated complaints to 311 about late-night jackhammer drilling across from me kept getting closed out with a comment akin to: "on inspection our inspector was unable to find the condition reported." My motto for several years (the construction lasted several years) was "I don't sleep, you don't sleep". On day 3 or 4, I decided Excel wasn't going to cut it and started with R. It's been very worthwhile. I would post something on Twitter and some NYC agency or city council member would block me. And then unblock after some loud protesting. 
 
-Cleaning and parsing the roughly (at last count) 28 million rows is something I did incrementally over several months, as needed for the [posts at DataTellsMe.Com](https://datatellsme.com). So here it is, *in media res*, till I get more comfortable with Git and GitHub and move older work into repos.
+At some point, I realized that public servants are not accountable to the public. The two points where we the people get accountablity is from elected officials, the Mayor and members of the city council. I remapped all data to city council districts, and staretd posting visualizations of it. 
 
-The extensive comments help me remember, weeks later, what I was doing/trying to accomplish with a bit of code. 
+And then Twitter shadow-banned me, presumably after staffers in council members' offices started flagging me. I didn't realize there was a shadow ban in effect for several months. The shadow ban disappeared after a few days if I started posting the analytics version of cat videos. And back to being shadow-banned a few days after I resumed with graphics that showed how council members were performing or not performing at delivering quality of life improvements for their district. I read all this block and ban activity as signaling that there was value to what I was doing. 
 
-The folders, by visualization subject, contain the aggregated data needed to run the code. The full, raw datafiles are [here at the NYC Open Data Portal](https://data.cityofnewyork.us/browse?q=311). 
+Several months ago, the council member from the Upper East Side, Ben Kallos, tweeted that perhaps the drop in noise in his district may have something to do with the evidence-based-governenace policies he/his office were pursuing. That gave me the idea to formalize what I was already thinking and doing into a 'governance-accountabiity' project. Make the mountains of public data useful by abstracting KPI from it, tracing accountability to those who are actually accountable, and put this tool to promote evidence-based governance in the public domain.
+
+Cleaning and parsing the roughly (at last count) 28 million rows is something I did incrementally over the years, and as needed for the [posts at DataTellsMe.Com](https://datatellsme.com). It's a bit of a disorganized mess (understatement alert). All of it will show up here as I clean up the code. For now, *in media res*, I will simply add the subsetted data in CSV form along with the vizualization code. 
+
+Extensive comments help me remember, weeks later, what I was doing/trying to accomplish with a bit of code. Learnt this lesson the hard way. 
+
+The folders are organized by visualization subject and contain the aggregated data needed to run the code. The full, raw datafiles are [here at the NYC Open Data Portal](https://data.cityofnewyork.us/browse?q=311). There are a number of very bright people on StackOverflow who have no idea how many of their answers to various questions from various people helped me understand so many things.   
