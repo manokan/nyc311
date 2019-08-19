@@ -1,0 +1,168 @@
+Complaint.Type,Year,N
+Noise - Residential,2017,228883
+Noise - Residential,2016,221022
+Noise - Residential,2018,217486
+Noise - Residential,2015,205826
+Noise - Residential,2014,192285
+Noise - Residential,2013,151303
+Noise - Residential,2012,127331
+Noise - Residential,2019,116414
+Noise - Residential,2010,115610
+Noise - Residential,2011,111421
+Noise - Street/Sidewalk,2018,73772
+Noise - Street/Sidewalk,2017,72631
+Noise - Street/Sidewalk,2004,62169
+Noise - Street/Sidewalk,2016,60372
+Noise,2018,59665
+Noise,2017,59106
+Noise,2016,57623
+Noise,2015,56615
+Noise - Street/Sidewalk,2005,56183
+Noise,2014,50898
+Noise - Street/Sidewalk,2015,50777
+Noise - Street/Sidewalk,2006,48777
+Noise - Commercial,2016,48755
+Noise - Commercial,2017,47159
+Noise - Commercial,2018,44695
+Noise,2007,44462
+Noise - Commercial,2015,43541
+Noise,2008,41363
+Noise - Street/Sidewalk,2007,41347
+Noise - Street/Sidewalk,2019,41062
+Noise,2006,40924
+Noise,2013,39120
+Noise - Commercial,2014,37269
+Noise,2005,37005
+Noise - Street/Sidewalk,2008,35856
+Noise - Street/Sidewalk,2014,35245
+Noise - Vehicle,2018,33744
+Noise,2012,33382
+Noise,2019,32118
+Noise,2009,32039
+Noise,2011,30934
+Noise - Vehicle,2017,29189
+Noise,2010,28848
+Noise - Street/Sidewalk,2009,27922
+Noise - Commercial,2006,27531
+Noise,2004,27440
+Noise - Commercial,2013,26476
+Noise - Commercial,2008,26245
+Noise - Commercial,2005,25670
+Noise - Commercial,2007,25541
+Noise - Commercial,2009,25232
+Noise - Commercial,2004,24699
+Noise - Street/Sidewalk,2013,24464
+Noise - Vehicle,2016,23568
+Noise - Vehicle,2004,23273
+Noise - Commercial,2019,22679
+Noise - Vehicle,2007,21901
+Noise - Vehicle,2019,21758
+Noise - Vehicle,2008,21400
+Noise - Commercial,2010,20894
+Noise - Commercial,2012,20526
+Noise - Vehicle,2009,20236
+Noise - Vehicle,2006,20193
+Noise - Vehicle,2005,19871
+Noise - Street/Sidewalk,2012,19255
+Noise - Vehicle,2015,19105
+Noise - Commercial,2011,18331
+Noise - Street/Sidewalk,2010,18093
+Noise - Street/Sidewalk,2011,17405
+Noise - Vehicle,2014,15019
+Noise - Vehicle,2012,13517
+Noise - Vehicle,2010,13498
+Noise - Vehicle,2013,12654
+Noise - Vehicle,2011,12372
+Noise Survey,2012,8789
+Noise Survey,2011,7484
+Noise - Park,2017,4501
+Noise - Park,2018,4138
+Noise - Park,2015,3994
+Noise - Park,2016,3797
+Noise - Park,2014,3738
+Noise - Park,2008,3630
+Noise - Park,2007,3542
+Noise - Park,2009,3036
+Noise - Park,2013,2891
+Noise - Park,2012,2853
+Noise - Park,2004,2714
+Noise - Park,2006,2592
+Sewer,2005,2422
+Noise - Park,2011,2323
+Noise - Park,2010,2261
+Sewer,2006,2237
+Sewer,2011,2219
+Sewer,2018,2189
+Noise - Park,2005,2158
+Sewer,2014,2156
+Noise - Park,2019,2091
+Sewer,2016,2023
+Sewer,2015,1995
+Sewer,2017,1956
+Sewer,2010,1944
+Sewer,2008,1879
+Sewer,2004,1786
+Sewer,2012,1709
+Sewer,2013,1680
+Noise - House of Worship,2006,1560
+Noise - House of Worship,2007,1517
+Noise - Helicopter,2015,1493
+Noise - House of Worship,2008,1442
+Noise - House of Worship,2009,1348
+Noise - House of Worship,2004,1299
+Noise - Helicopter,2014,1287
+Noise - Helicopter,2011,1278
+Sewer,2009,1241
+Sewer,2007,1234
+Noise - House of Worship,2011,1171
+Noise - House of Worship,2005,1164
+Noise - House of Worship,2010,1111
+Sewer,2019,1075
+Noise - House of Worship,2015,1058
+Noise - Helicopter,2017,1053
+Noise - Helicopter,2018,1027
+Noise - House of Worship,2014,1012
+Noise - Helicopter,2016,1009
+Noise - House of Worship,2012,1000
+Noise - House of Worship,2013,989
+Noise - House of Worship,2016,915
+Noise - House of Worship,2017,902
+Noise - Helicopter,2019,854
+Noise - Helicopter,2013,769
+Noise - House of Worship,2018,750
+Noise - Helicopter,2012,687
+Noise - Helicopter,2010,497
+Street Condition,2004,462
+Noise - House of Worship,2019,399
+Collection Truck Noise,2007,364
+Collection Truck Noise,2006,332
+Collection Truck Noise,2005,304
+Collection Truck Noise,2008,300
+Collection Truck Noise,2009,223
+Collection Truck Noise,2017,196
+Collection Truck Noise,2015,178
+Collection Truck Noise,2016,172
+Collection Truck Noise,2014,168
+Collection Truck Noise,2012,167
+Collection Truck Noise,2018,138
+Collection Truck Noise,2010,133
+Collection Truck Noise,2013,122
+Collection Truck Noise,2004,114
+Collection Truck Noise,2011,112
+Collection Truck Noise,2019,112
+Sidewalk Condition,2004,57
+Plant,2008,22
+Plant,2013,21
+Plant,2007,14
+Plant,2011,12
+Plant,2012,11
+Plant,2014,11
+Plant,2009,9
+Plant,2015,9
+Plant,2016,8
+Plant,2010,7
+Plant,2018,7
+Plant,2006,2
+Plant,2017,2
+Plant,2004,1
+Plant,2019,1
